@@ -1,0 +1,6 @@
+call Domino's 
+order pizza
+give credit card info
+wait
+receive pizza
+tip driver
