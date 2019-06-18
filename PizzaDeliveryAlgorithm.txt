@@ -1,6 +1,6 @@
 1. call Domino's 
 	a. If they don't answer, go back to 1. Otherwise, continue.
-2. order pizza
+2. order a _______ (pizza type) pizza
 3. give credit card info
 4. wait
 5. receive pizza
