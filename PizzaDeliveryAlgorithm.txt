@@ -1,8 +1,11 @@
 1. call ______ (pizza place) 
 	a. If they don't answer, go back to 1. Otherwise, continue.
 2. order a _______ (pizza type) pizza
+	a. First choice is pepporoni
+	b. Second choice is supreme
 3. give credit card info
 4. wait
 5. receive pizza
 	a. If pizza is not ______ (pizza type), then send back, Otherwise, continue.
 6. if we did not tip on the phone, then tip the driver.
+7. Eat pizza
